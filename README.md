@@ -1,6 +1,6 @@
 # 📚 BookBot
 
-Welcome to BookBot — a real command-line Python project built with Boot.dev!
+Welcome to BookBot — a real command-line Python project during learning on  Boot.dev!
 
 BookBot processes entire novels (Frankenstein, Moby Dick, Pride and Prejudice) and delivers fast, reproducible text analytics.
 
