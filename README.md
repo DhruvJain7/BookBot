@@ -14,3 +14,11 @@ BookBot processes entire novels (Frankenstein, Moby Dick, Pride and Prejudice) a
 * **Clean CLI Output:** Clear, professional reports ready for further analysis or presentation.
 
 ---
+
+## 💻 Tech Stack
+
+- Python 3.11+
+- Standard Library , zero dependencies
+- Modular CLI Design
+
+---
