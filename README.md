@@ -15,6 +15,7 @@ BookBot processes entire novels (Frankenstein, Moby Dick, Pride and Prejudice) a
 
 ---
 
+
 ## 💻 Tech Stack
 
 - Python 3.11+
@@ -22,3 +23,10 @@ BookBot processes entire novels (Frankenstein, Moby Dick, Pride and Prejudice) a
 - Modular CLI Design
 
 ---
+## 🖥️ Sample Output
+
+<img width="553" height="611" alt="Screenshot 2025-10-07 at 12 48 50 PM" src="https://github.com/user-attachments/assets/6bcf09b7-d088-46f0-96e5-35ecbbe0baba" />
+
+---
+
+
